@@ -1,6 +1,10 @@
+body{
+    background-color:aquamarine
+}
+
 .container {
     width: 1148px;
-    margin: 0 auto;
+    margin: 30px auto 0;
     overflow: hidden;
 }
 
